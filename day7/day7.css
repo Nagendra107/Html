@@ -1,0 +1,20 @@
+#hello figure
+{
+    width:150px;
+    margin: 0;
+}
+#hello img{
+    width:150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0;
+    display: block;
+    object-fit: cover;
+
+}
+#hello figcaption
+{
+    text-align: center;
+    color: red;
+    margin-top: 10px;
+}
